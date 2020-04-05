@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bienvendio"
+title:  "Bienvenido"
 date:   2020-04-01 00:00:00 +0000
 categories: corona guatemala 
 ---
