@@ -16,7 +16,7 @@ la fortaleza y flexibilidad de las infraestructuras que han construido para su s
 
 ## Contexto
 
-Los conteos y estadísticas de números de infectados, recuperados, fallecidos son un reflejo de la realidad  ***si y solo si*** se masifican las pruebas de infección. Un ejemplo es Corea del Sur, en donde se han encontrado 9786 casos confirmados de COVID-19 ***pero*** en el contexto de 383,886 pruebas realizadas (al 31 de marzo, 2020)[1]. Además, realizan entre 15,000 a 20,000 pruebas diarias [2], [17] . El resultado es que saben dónde hay focos de infección y su severidad, pueden buscarlos y contenerlos, evitando el colapso de sistemas de salud, logrando ***aplanar la curva*** y evitando situaciones muchísimo más alarmantes como las de Italia y España.
+Los conteos y estadísticas de números de infectados, recuperados, fallecidos son un reflejo de la realidad  ***si y solo si*** se masifican las pruebas de infección. Un ejemplo es Corea del Sur, en donde se han encontrado 9786 casos confirmados de COVID-19 ***pero*** en el contexto de 383,886 pruebas realizadas (al 31 de marzo, 2020)[1]. Además, realizan entre 15,000 a 20,000 pruebas diarias [2], [17] . El resultado es que saben dónde hay focos de infección y su severidad, pueden buscarlos y contenerlos, evitando el colapso de sistemas de salud, logrando ***aplanar la curva*** y evitando situaciones más alarmantes como las de Italia y España.
 
 La prueba más ampliamente utilizada para confirmar el COVID-19 es el RT-PCR (reacción en cadena de la polimerasa con transcriptasa inversa RT-PCR, del inglés Reverse transcription polymerase chain reaction) [3]. Por la severidad de la situación global, esta prueba es escasa,  los productores como China y Corea del Sur están viendo su capacidad de producción rebasada, priorizando primero sus necesidades internas, luego la de países en situaciones críticas como Italia, España y Estados Unidos, mientras consideran el beneficio económico y político de la venta de las pruebas [4]. Esta situación podría poner en detrimento la capacidad de adquisición de pruebas para Guatemala en el presente, y vacunas en el futuro. 
 
@@ -36,9 +36,10 @@ Dirigimos al lector a las fuentes [6] y [7], y principalmente a la referencia [1
 
  - Proveer indicios de infecciones bacteriales secundarias que podrían requerir tratamiento antibiótico.
 
- - Los profesionales en radiología deben hacer un esfuerzo por entrenar a practicantes y personal clínico en los hallazgos en el diagnóstico por imágenes de enfermedades infecciosas emergentes incluyendo COVID-19.
+ - Los profesionales en radiología deben hacer un esfuerzo por entrenarse y entrenar a sus practicantes y personal clínico en los hallazgos en el diagnóstico por imágenes de enfermedades infecciosas emergentes incluyendo COVID-19.
 
-La lista anterior no pretender ser una lista exhaustiva. En conclusión, de acuerdo con [6], los radiólogos deben hacer un análisis exhaustivo cuando se diagnóstica la infección COVID-19, que va más allá de la sola examinación de características radiológicas.
+La lista anterior no pretender ser una lista exhaustiva. En conclusión, de acuerdo con [6], los radiólogos deben hacer un análisis exhaustivo cuando se diagnóstica la infección COVID-19, que va más allá de la sola examinación de radiografías. Es importante enfatizar que el diagnóstico por imágenes es una importante prueba de soporte en la detección temprana de pacientes positivos a SARS-Cov-2, y algunos estudios sugieren una alta sensitividad y especificidad en las etapas tempranas, cuando la prueba RT-PCR puede resultar negativa [18].
+
 
 ### Riesgos y precauciones involucrados en el diagnostico de SARS-CoV-2 a través de imágenes
 
@@ -69,7 +70,7 @@ En este contexto, es importante conocer:
 
  - La posición del grupo de profesionales en radiología respecto a la pandemia del COVID-19 en Guatemala.
 
- - Sus observaciones en los primeros meses del año, principalmente indicativos de repuntes localizados en casos de neumonía en distintas regiones del país.
+ - Sus observaciones en los primeros meses del año, principalmente indicativos de repuntes localizados en casos de neumonía viral en distintas regiones del país.
 
  - Sus recomendaciones respecto a la pandemia del COVID-19 en Guatemala.
 
@@ -125,3 +126,8 @@ https://github.com/ncovgt2020
 [16] https://www.webcir.org/newsletter/2020/newsleter_marzo2020.html
 
 [17] Entrevista a Dr. MD PhD. Doo Ryeon Chung, Director de Control y Prevención de Infecciones en el Centro Médico Samsung, Seúl, Corea del Sur. En: https://www.youtube.com/watch?v=JtDQkaTXC0A&t=978s
+
+[18] Ai, T., Yang, Z., Hou, H., Zhan, C., Chen, C., Lv, W., … Xia, L. (2020). Correlation of Chest CT and RT-PCR Testing in Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases. Radiology, 80(2), 200642. https://doi.org/10.1148/radiol.2020200642
+
+### Historial de Cambios
+20 Abril 2020: Añadir conclusiones de [18] que muestra mayor sensitividad a RT-PCR y especificidad de 97% de imágenes por tomografía computarizada en un cohorte de 1014 casos.
