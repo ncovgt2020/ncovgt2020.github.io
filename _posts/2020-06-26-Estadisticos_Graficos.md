@@ -17,12 +17,13 @@ recuperados:  2419
 
 fallecidos:  483
 
-activos:  9605
+activos:  9605	
 
 pruebas realizadas:  66843
 
 # Gráficas
 
-![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/master/_site/images/resumen.png)
-![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/master/_site/images/pruebas.png)
-![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/master/_site/images/hambre.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/resources/images/Casos_Acumulados.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/resources/images/Casos_Acumulados_v2.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/resources/images/Casos_Diarios_V0.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/master/resources/Resumen_Pruebas_semilogy.png)
