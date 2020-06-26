@@ -23,7 +23,7 @@ pruebas realizadas:  66843
 
 # Gráficas
 
-![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/resources/images/Casos_Acumulados.png)
-![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/resources/images/Casos_Acumulados_v2.png)
-![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/resources/images/Casos_Diarios_V0.png)
-![alt tag](https://github.com/ncovgt2020/ncovgt2020/blob/master/resources/Resumen_Pruebas_semilogy.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020.github.io/blob/master/resources/Casos_Acumulados.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020.github.io/blob/master/resources/Casos_Acumulados_v2.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020.github.io/blob/master/resources/Casos_Diarios_V0.png)
+![alt tag](https://github.com/ncovgt2020/ncovgt2020.github.io/blob/master/resources/Resumen_Pruebas_semilogy.png)
