@@ -12,18 +12,20 @@ Estas gráficas son generadas a partir de los datos en [nuestro repositorio](htt
 
 # Estadísticos Relevantes:
 
-confirmados:  12509
+confirmados:  17409
 
-recuperados:  2419
+recuperados:  3170
 
-fallecidos:  483
+fallecidos:  746
 
-activos:  9605	
+activos:  13491
 
-pruebas realizadas:  66843
+pruebas realizadas:  83017
 
 # Gráficas
+
 ![Screenshot]({{site.url}}/resources/Casos_Acumulados.png)
-![Screenshot]({{site.url}}/resources/Casos_Acumulados_v2.png)
-![Screenshot]({{site.url}}/resources/Casos_Diarios_V0.png)
+![Screenshot]({{site.url}}/resources/Casos_Diarios.png)
+![Screenshot]({{site.url}}/resources/Razon_confirmados_pruebas_diario.png)
+![Screenshot]({{site.url}}/resources/Razon_negativos_pruebas_diario.png)
 ![Screenshot]({{site.url}}/resources/Resumen_Pruebas_semilogy.png)
