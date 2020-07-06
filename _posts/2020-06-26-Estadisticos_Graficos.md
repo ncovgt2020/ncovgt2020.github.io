@@ -10,17 +10,17 @@ Como parte de este proyecto, originalmente se pensó en llevar registro de los d
 
 Estas gráficas son generadas a partir de los datos en [nuestro repositorio](https://github.com/ncovgt2020/ncovgt2020) y gracias al esfuerzo de [Hiram22](https://github.com/hiram22).
 
-# Estadísticos Relevantes:
+# Estadísticos Relevantes, actualizados 03 junio 2020:
 
-confirmados:  17409
+confirmados:  23248
 
-recuperados:  3170
+recuperados:  3382
 
-fallecidos:  746
+fallecidos:  947
 
-activos:  13491
+activos:  18917
 
-pruebas realizadas:  83017
+pruebas realizadas:  96206
 
 # Gráficas
 
@@ -29,3 +29,4 @@ pruebas realizadas:  83017
 ![Screenshot]({{site.url}}/resources/Razon_confirmados_pruebas_diario.png)
 ![Screenshot]({{site.url}}/resources/Razon_negativos_pruebas_diario.png)
 ![Screenshot]({{site.url}}/resources/Resumen_Pruebas_semilogy.png)
+![Screenshot]({{site.url}}/resources/Evolucion_Porcentaje_Casos.png)
