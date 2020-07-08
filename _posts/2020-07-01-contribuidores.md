@@ -30,7 +30,7 @@ Para mi es una meta poder ayudar y contribuir al desarrollo del país desde mi c
 
 ## Juan Medrano
 
-Guatemalteco. (Rebeca Lane)[https://es.wikipedia.org/wiki/Rebeca_Lane], en su record publicado en 2020 (***Quisiera olvidarme de tu nombre***)[https://www.youtube.com/watch?v=atOg83Xig6I] y  (Manuel José Arce Leal)[https://es.wikipedia.org/wiki/Manuel_Jos%C3%A9_Leonardo_Arce_Leal], al menos medio siglo antes en su poema ***¡Yo no quisiera ser de aquí!***, describen muy bien en sus líneas:
+Guatemalteco. [Rebeca Lane](https://es.wikipedia.org/wiki/Rebeca_Lane), en su record publicado en 2020 [***Quisiera olvidarme de tu nombre***](https://www.youtube.com/watch?v=atOg83Xig6I) y  [Manuel José Arce Leal](https://es.wikipedia.org/wiki/Manuel_Jos%C3%A9_Leonardo_Arce_Leal), al menos medio siglo antes en su poema ***¡Yo no quisiera ser de aquí!***, describen muy bien en sus líneas:
 
 « Yo no quisiera ser de aquí,  
 Amo, con todo lo que soy, este suelo y su gente.  
