@@ -12,15 +12,15 @@ Estas gráficas son generadas a partir de los datos en [nuestro repositorio](htt
 
 # Estadísticos Relevantes, actualizados 06 junio 2020:
 
-confirmados:  23972
+confirmados:  25411
 
-recuperados:  3429
+recuperados:  3718
 
-fallecidos:  981
+fallecidos:  1053
 
-activos:  19560
+activos:  20638
 
-pruebas realizadas:  97720
+pruebas realizadas:  100307
 
 # Gráficas
 
