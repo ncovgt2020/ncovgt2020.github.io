@@ -10,17 +10,17 @@ Como parte de este proyecto, originalmente se pensó en llevar registro de los d
 
 Estas gráficas son generadas a partir de los datos en [nuestro repositorio](https://github.com/ncovgt2020/ncovgt2020) y gracias al esfuerzo de [Hiram22](https://github.com/hiram22).
 
-# Estadísticos Relevantes, actualizados 06 junio 2020:
+# Estadísticos Relevantes, actualizados 10 julio 2020:
 
-confirmados:  26658
+confirmados:  27619
 
-recuperados:  3797
+recuperados:  4024
 
-fallecidos:  1092
+fallecidos:  1139
 
-activos:  21767
+activos:  22454
 
-pruebas realizadas:  103048
+pruebas realizadas:  105363
 
 # Gráficas
 
