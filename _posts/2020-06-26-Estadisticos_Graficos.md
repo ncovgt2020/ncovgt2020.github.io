@@ -12,15 +12,15 @@ Estas gráficas son generadas a partir de los datos en [nuestro repositorio](htt
 
 # Estadísticos Relevantes, actualizados 10 julio 2020:
 
-confirmados:  27619
+confirmados:  28598
 
-recuperados:  4024
+recuperados:  4073
 
-fallecidos:  1139
+fallecidos:  1172
 
-activos:  22454
+activos:  23351
 
-pruebas realizadas:  105363
+pruebas realizadas:  107806
 
 # Gráficas
 
