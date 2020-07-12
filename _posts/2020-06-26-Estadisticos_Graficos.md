@@ -10,7 +10,7 @@ Como parte de este proyecto, originalmente se pensó en llevar registro de los d
 
 Estas gráficas son generadas a partir de los datos en [nuestro repositorio](https://github.com/ncovgt2020/ncovgt2020) y gracias al esfuerzo de [Hiram22](https://github.com/hiram22).
 
-# Estadísticos Relevantes, actualizados 10 julio 2020:
+# Estadísticos Relevantes, actualizados 11 julio 2020:
 
 confirmados:  28598
 
