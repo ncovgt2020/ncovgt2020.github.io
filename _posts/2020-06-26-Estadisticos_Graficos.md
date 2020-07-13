@@ -12,21 +12,43 @@ Estas gráficas son generadas a partir de los datos en [nuestro repositorio](htt
 
 # Estadísticos Relevantes, actualizados 11 julio 2020:
 
-confirmados:  28598
+Confirmados:  28598
 
-recuperados:  4073
+Recuperados:  4073
 
-fallecidos:  1172
+Fallecidos:  1172
 
-activos:  23351
+Activos:  23351
 
-pruebas realizadas:  107806
+Pruebas realizadas:  107806
 
 # Gráficas
 
+**Aclaración**:  En las siguientes gráficas el eje x utiliza la cantidad de días a partir del día en que se confirmo el primer caso de COVID-19 en Guatemala (13-03-2020). 
+
+#### Casos Acumulados:
 ![Screenshot]({{site.url}}/resources/Casos_Acumulados.png)
+En esta gráfica se muestra la evolución de la cantidad **acumulada** de casos. Se puede observar claramente como todas se encuentran en crecimiento hasta la feccha (2020-07-10).
+
+#### Casos Diarios:
 ![Screenshot]({{site.url}}/resources/Casos_Diarios.png)
+Esta gráfica nos muestra la cantidad de casos **nuevos diarios** de cada categoria. 
+
+### Casos Confirmados y Pruebas Diarias
 ![Screenshot]({{site.url}}/resources/Razon_confirmados_pruebas_diario.png)
+En esta gráfica se observa la relación entre la cantidad de pruebas realizadas y casos confirmados para cada día, la formula utilizada es: 
+
+$$\frac{CasosConfirmados}{Pruebas Realizadas}{x100}$$
+
+Un valor más alto nos indíca que las pruebas que se realizaron fueron efectivas, es decir, que se identificaron más casos positivos. 
+
+### Casos Negativos y Pruebas Diarias
 ![Screenshot]({{site.url}}/resources/Razon_negativos_pruebas_diario.png)
+
+### Pruebas Acumuladas y Diarias
 ![Screenshot]({{site.url}}/resources/Resumen_Pruebas_semilogy.png)
+Esta gráfica consiste de dos partes: La cantidad de pruebas realizadas diarias y la cantidad de pruebas acumuladas. 
+
+### Evolución de Casos
 ![Screenshot]({{site.url}}/resources/Evolucion_Porcentaje_Casos.png)
+En esta gráfica se muestra la evolución del porcentaje de casos **activos, fallecidos** y **recuperados** respecto al total de casos. 
