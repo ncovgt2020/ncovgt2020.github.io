@@ -10,7 +10,7 @@ Como parte de este proyecto, originalmente se pensó en llevar registro de los d
 
 Estas gráficas son generadas a partir de los datos en [nuestro repositorio](https://github.com/ncovgt2020/ncovgt2020) y gracias al esfuerzo de [Hiram22](https://github.com/hiram22).
 
-# Estadísticos Relevantes, actualizados 11 julio 2020:
+# Estadísticos Relevantes, actualizados 19 julio 2020:
 
 confirmados:  29355
 
@@ -53,3 +53,5 @@ Esta gráfica consiste de dos partes: La cantidad de pruebas realizadas diarias 
 ### Evolución de Casos
 ![Screenshot]({{site.url}}/resources/Evolucion_Porcentaje_Casos.png)
 En esta gráfica se muestra la evolución del porcentaje de casos **activos, fallecidos** y **recuperados** respecto al total de casos. 
+
+![Screenshot]({{site.url}}/resources/Evolucion_Porcentaje_Casos_Detalle.png)
