@@ -52,3 +52,6 @@ Esta gráfica consiste de dos partes: La cantidad de pruebas realizadas diarias 
 En esta gráfica se muestra la evolución del porcentaje de casos **activos, fallecidos** y **recuperados** respecto al total de casos. 
 
 ![Screenshot]({{site.url}}/resources/Evolucion_Porcentaje_Casos_Detalle.png)
+
+### Evolución de Casos Cerrados
+![Screenshot]({{site.url}}/resources/Evolucion_Casos_Cerrados.png)
