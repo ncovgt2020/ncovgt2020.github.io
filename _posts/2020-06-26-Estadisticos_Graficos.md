@@ -12,15 +12,15 @@ Estas gráficas son generadas a partir de los datos en [nuestro repositorio](htt
 
 # Estadísticos Relevantes, actualizados 19 julio 2020:
 
-confirmados:  38667
+confirmados:  39039
 
-recuperados:  24227
+recuperados:  25539
 
-fallecidos:  1485
+fallecidos:  1502
 
-activos:  12955
+activos:  11998
 
-pruebas realizadas:  121858
+pruebas realizadas:  123786
 
 
 # Gráficas
@@ -42,9 +42,6 @@ En esta gráfica se observa la relación entre la cantidad de pruebas realizadas
 $$\frac{CasosConfirmados}{Pruebas Realizadas}{x100}$$
 
 Un valor más alto nos indíca que las pruebas que se realizaron fueron efectivas, es decir, que se identificaron más casos positivos. 
-
-### Casos Negativos y Pruebas Diarias
-![Screenshot]({{site.url}}/resources/Razon_negativos_pruebas_diario.png)
 
 ### Pruebas Acumuladas y Diarias
 ![Screenshot]({{site.url}}/resources/Resumen_Pruebas_semilogy.png)
