@@ -20,11 +20,11 @@ Me encuentro en una etapa de autodescubrimiento, motivada por mi familia y amigo
 
 ## Steven Rubio
 
-Mi nombre es Steven Rubio. Soy originario del interior del país (San Pedro Carcha, Alta Verapaz) y me traslade a la capital en 2015 para comenzar mi carrera universitaria. Estudie Ingeniería Electrónica en la Universidad del Valle de Guatemala , concluyendo mi carrera  en diciembre del año pasado. Actualmente trabajo en el centro de Investigación de Ingeniería, Matemática y Física de la Universidad Mariano Gálvez 
+Mi nombre es Steven Rubio. Soy originario del interior del país (San Pedro Carcha, Alta Verapaz) y me traslade a la capital en 2015 para comenzar mi carrera universitaria. Estudie Ingeniería Electrónica en la Universidad del Valle de Guatemala, concluyendo mi carrera  en diciembre del año pasado. Actualmente trabajo en el centro de Investigación de Ingeniería, Matemática y Física de la Universidad Mariano Gálvez 
 
-Me apasiona mucho la música, el yoga y aprender cosas nuevas, ¡entre ellas programar! Tengo planes de conocer todos los departamentos del país por mi cuenta y correr una triatlon. 
+Me apasiona mucho la música, el yoga y aprender cosas nuevas, ¡entre ellas programar! Tengo planes de conocer todos los departamentos del país por mi cuenta y correr un triatlón. 
 
-Para mi es una meta poder ayudar y contribuir al desarrollo del país desde mi campo profesional y desde cualquier iniciativa en la que pueda sumar o contribuir. Creo que si todos hacemos esto podemos cambiar mucho en Guate.
+Para mí es una meta poder ayudar y contribuir al desarrollo del país desde mi campo profesional y desde cualquier iniciativa en la que pueda sumar o contribuir. Creo que si todos hacemos esto podemos cambiar mucho en Guate.
 
 ![Screenshot]({{site.url}}/resources/steven1.png)
 
